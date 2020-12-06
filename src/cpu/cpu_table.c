@@ -1826,6 +1826,7 @@ const cpu_legacy_machine_t cpu_legacy_table[] = {
     {"v60n",                    cputables_PentiumPro},
     {"p65up5_cp6nd",            cputables_PentiumPro},
     {"8600ttc",                 cputables_PentiumPro},
+    {"gw2kvs",                  cputables_PentiumPro},
     {"686nx",                   cputables_PentiumPro},
     {"ap440fx",                 cputables_PentiumPro},
     {"vs440fx",                 cputables_PentiumPro},
