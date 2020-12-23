@@ -1784,6 +1784,7 @@ const cpu_legacy_machine_t cpu_legacy_table[] = {
     {"apollo",                  cputables_PentiumS5_WinChip_K5},
     {"vectra54",                cputables_PentiumS5_WinChip_K5},
     {"zappa",                   cputables_PentiumS5_WinChip_K5},
+    {"gw2kzp",                  cputables_PentiumS5_WinChip_K5},
     {"powermate_v",             cputables_PentiumS5_WinChip_K5},
     {"mb500n",                  cputables_PentiumS5_WinChip_K5},
     {"p54tp4xe",                cputables_Pentium3V_WinChip_K5_6x863V},
