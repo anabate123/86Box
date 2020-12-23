@@ -1777,6 +1777,7 @@ const cpu_legacy_machine_t cpu_legacy_table[] = {
     {"pb520r",                  cputables_Pentium5V},
     {"excalibur",               cputables_Pentium5V},
     {"plato",                   cputables_PentiumS5_WinChip_K5},
+    {"gw2kpci2",                cputables_PentiumS5_WinChip_K5},
     {"ambradp90",               cputables_PentiumS5_WinChip_K5},
     {"430nx",                   cputables_PentiumS5_WinChip_K5},
     {"acerv30",                 cputables_PentiumS5_WinChip_K5},
